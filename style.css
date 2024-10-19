@@ -103,9 +103,9 @@
   .img-card{
     display: flex;
     flex-direction: column;
-    text-align: center;
-    align-items: center;
+    justify-content: center;
     width:60px;
+
   }
   .services-container>.card-wrapper{
     width: 100%;
